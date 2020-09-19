@@ -1,12 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "The Silence",
-      "actions": {
-        "$foreground": {
-          "type": "$reload"
-        }
-      }
+      "title": "The Silence"
     },
     "body": {
       "style": {
@@ -17,11 +12,11 @@
           "type":"image",
           "url":"https://s3.amazonaws.com/appforest_uf/f1600327142878x178046523186174080/New%20Project%20%283%29.png",
           "style":{
-              "align":"left",
-              "left":"10"              
-        }
+            "align":"left",
+            "left":"10"              
+          }
 
         }
-    }
+     }
   }
 }
