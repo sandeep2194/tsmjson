@@ -17,11 +17,9 @@
           "type":"image",
           "url":"https://s3.amazonaws.com/appforest_uf/f1600327142878x178046523186174080/New%20Project%20%283%29.png",
           "style":{
-              "width":32,
-              "height":32,
               "align":"left",
               "left":"10"              
-          }
+        }
 
         }
     }
