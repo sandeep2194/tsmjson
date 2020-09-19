@@ -1,0 +1,35 @@
+{
+    "$json":{
+        "head":{
+            "title":"The Silence",
+            "discription":"This app is android verion of the web app thesilence.in",
+            "icon":"https://s3.amazonaws.com/appforest_uf/f1600327142878x178046523186174080/New%20Project%20%283%29.png",
+            "offline":"true",
+            "style":{
+                "styled_row": {
+                    "font": "HelveticaNeue",
+                    "size": "20",
+                    "color": "#ff0000",
+                    "padding": "10"
+            }
+        }
+    },
+    "body": {
+        "sections": [{
+          "items": [{
+            "type": "label",
+            "text": "This is row 1",
+            "class": "styled_row"
+          }, {
+            "type": "label",
+            "text": "This is row 2",
+            "class": "styled_row"
+          }, {
+            "type": "label",
+            "text": "This is row 3",
+            "class": "styled_row"
+          }]
+        }]
+          }
+} 
+}
