@@ -1,11 +1,10 @@
 {
   "$jason": {
     "head": {
-      "title": "Twitter",
+      "title": "The Silence",
       "styles": {
         "note": {
           "color": "#ffffff",
-          "font": "HelveticaNeue-Bold",
           "size": "15"
         }
       },
@@ -114,7 +113,6 @@
                       "type": "label",
                       "text": "ethan",
                       "style": {
-                        "font": "HelveticaNeue-Bold",
                         "width": "50",
                         "size": "14"
                       }
