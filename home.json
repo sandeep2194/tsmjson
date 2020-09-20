@@ -1,323 +1,186 @@
 {
   "$jason": {
     "head": {
-      "data": {
-        "posts": [{
-          "type": "stories",
-          "items": [{
-            "body": "The home dept's Amitabh Gupta, who was in news earlier this year for allowing the Wadhawan brothers to travel amid lockdown, will be Pune's new police commissioner.",
-            "discription": "The home dept's Amitabh Gupta, who was in news earlier this year for allowing the Wadhawan brothers to travel amid lockdown, will be Pune's new police commissioner.",
-            "headline": "Maharashtra govt transfers over 50 IPS officers including Principal Secretary Amitabh Gupta",
-            "sponsered": false,
-            "url": "https://theprint.in/india/maharashtra-govt-transfers-over-50-ips-officers-including-principal-secretary-amitabh-gupta/505261/",
-            "Created Date": "2020-09-18T07:30:30.768Z",
-            "Created By": "admin_user_thesilence_test",
-            "Modified Date": "2020-09-18T07:30:30.814Z",
-            "isvideo": false,
-            "reported": false,
-            "inhouse": false,
-            "categories": [
-              "India",
-              "IPS officers",
-              "Maharashtra government",
-              "Yes bank"
-            ],
-            "hashtags": [
-              "theprint",
-              "india",
-              "maharashtra",
-              "govt",
-              "transfers",
-              "over",
-              "ips",
-              "officers",
-              "including",
-              "principal",
-              "secretary",
-              "amitabh",
-              "gupta"
-            ],
-            "guid": "https://theprint.in/?p=505261",
-            "pub_ddate": "2020-09-18T06:20:04.000Z",
-            "Language": "English",
-            "_id": "1600414230707x756126860150426200",
-            "_type": "custom.news"
-          },
-          {
-            "body": "The weight of decision making on the govt to give a go-ahead for military actions such as Surgical Strikes or a Balakot is very heavy.",
-            "discription": "The weight of decision making on the govt to give a go-ahead for military actions such as Surgical Strikes or a Balakot is very heavy.",
-            "headline": "India can’t afford a knee-jerk reaction on the LAC. That’s what China is hoping for",
-            "sponsered": false,
-            "url": "https://theprint.in/opinion/india-cant-afford-a-knee-jerk-reaction-on-the-lac-thats-what-china-is-hoping-for/505111/",
-            "Created Date": "2020-09-18T07:30:40.756Z",
-            "Created By": "admin_user_thesilence_test",
-            "Modified Date": "2020-09-18T07:30:40.804Z",
-            "isvideo": false,
-            "reported": false,
-            "inhouse": false,
-            "categories": [
-              "Opinion",
-              "India-China stand-off",
-              "LAC",
-              "Modi government",
-              "PLA"
-            ],
-            "hashtags": [
-              "theprint",
-              "opinion",
-              "india",
-              "cant",
-              "afford",
-              "knee",
-              "jerk",
-              "reaction",
-              "on",
-              "the",
-              "lac",
-              "thats",
-              "what",
-              "china",
-              "is",
-              "hoping",
-              "for"
-            ],
-            "guid": "https://theprint.in/?p=505111",
-            "pub_ddate": "2020-09-18T06:14:13.000Z",
-            "Language": "English",
-            "_id": "1600414240711x287998961545686600",
-            "_type": "custom.news"
-          },
-          {
-            "body": "<div>\n<img src=\"https://images.livemint.com/img/2020/09/18/600x338/AFP_8PR667_1600407847447_1600407860040.jpg\"><div>Dr Reddy's Laboratories said it has settled a litigation with a unit of Bristol Myers Squibb.Earlier this week, it had reached an agreement to buy Russia covid vaccines</div>\n</div>",
-            "discription": "<div>\n<img src=\"https://images.livemint.com/img/2020/09/18/600x338/AFP_8PR667_1600407847447_1600407860040.jpg\"><div>Dr Reddy's Laboratories said it has settled a litigation with a unit of Bristol Myers Squibb.Earlier this week, it had reached an agreement to buy Russia covid vaccines</div>\n</div>",
-            "pic": "https://images.livemint.com/img/2020/09/18/600x338/AFP_8PR667_1600407847447_1600407860040.jpg",
-            "headline": "Dr Reddy's Lab shares hit new highs, extend weekly gains to 20%",
-            "sponsered": false,
-            "url": "https://www.livemint.com/market/stock-market-news/dr-reddy-s-lab-shares-hit-new-highs-extend-weekly-gains-to-20-11600407170136.html",
-            "Created Date": "2020-09-18T07:25:00.528Z",
-            "Created By": "admin_user_thesilence_test",
-            "Modified Date": "2020-09-18T07:25:00.894Z",
-            "isvideo": false,
-            "author": "1599982774349x346667486450220600",
-            "reported": false,
-            "inhouse": false,
-            "hashtags": [
-              "market",
-              "stock",
-              "market",
-              "news",
-              "dr",
-              "reddy",
-              "s",
-              "lab",
-              "shares",
-              "hit",
-              "new",
-              "highs",
-              "extend",
-              "weekly",
-              "gains",
-              "to"
-            ],
-            "guid": "https://www.livemint.com/market/stock-market-news/dr-reddy-s-lab-shares-hit-new-highs-extend-weekly-gains-to-20-11600407170136.html",
-            "pub_ddate": "2020-09-18T05:53:55.000Z",
-            "Language": "English",
-            "_id": "1600413900483x709024477527727900",
-            "_type": "custom.news"
-          },
-          {
-            "body": "Trump’s own health experts have said they expect a vaccine at the earliest by November or December, if everything goes perfectly.",
-            "discription": "Trump’s own health experts have said they expect a vaccine at the earliest by November or December, if everything goes perfectly.",
-            "headline": "Will US get a vaccine before election day? Trump says yes, scientists aren’t that sure",
-            "sponsered": false,
-            "url": "https://theprint.in/world/will-us-get-a-vaccine-before-election-day-trump-says-yes-scientists-arent-that-sure/505269/",
-            "Created Date": "2020-09-18T07:30:50.770Z",
-            "Created By": "admin_user_thesilence_test",
-            "Modified Date": "2020-09-18T07:30:50.817Z",
-            "isvideo": false,
-            "reported": false,
-            "inhouse": false,
-            "categories": [
-              "World",
-              "Coronavirus",
-              "coronavirus world updates",
-              "Donald Trump"
-            ],
-            "hashtags": [
-              "theprint",
-              "world",
-              "will",
-              "us",
-              "get",
-              "vaccine",
-              "before",
-              "election",
-              "day",
-              "trump",
-              "says",
-              "yes",
-              "scientists",
-              "arent",
-              "that",
-              "sure"
-            ],
-            "guid": "https://theprint.in/?p=505269",
-            "pub_ddate": "2020-09-18T05:46:33.000Z",
-            "Language": "English",
-            "_id": "1600414250728x546739580969015230",
-            "_type": "custom.news"
-          },]
+      "title": "Twitter",
+      "styles": {
+        "note": {
+          "color": "#ffffff",
+          "font": "HelveticaNeue-Bold",
+          "size": "15"
+        }
       },
-      "templates":{
+      "actions": {
+        "$pull": {
+          "type": "$flush",
+          "success": {
+            "type": "$reload"
+          }
+        }
+      },
+      "data": {
+        "tweets": [{
+          "text": "Animated GIFs are neon signs of the Internet.",
+          "image": "https://pbs.twimg.com/media/Cub2D-vXYAIXFQo.jpg"
+        }, {
+          "text": "I think this is a new feature on Twitter: a push notification for every tweet",
+          "image": "https://pbs.twimg.com/media/CtJYvx1XgAIilZ4.jpg"
+        }, {
+          "text": "Found the most brilliant invention in human history",
+          "image": "https://pbs.twimg.com/media/Cr7cSz1WIAA0OZj.jpg"
+        }, {
+          "text": "Ludlow and Rivington. NOW.",
+          "image": "https://pbs.twimg.com/media/CrNnHPUWEAEK_b3.jpg"
+        }]
+      },
+      "templates": {
         "body": {
           "header": {
-            "style": {
-              "shy": "true"
-            },
             "title": {
               "type": "image",
               "style": {
-                "width": "94",
-                "height": "27"
+                "width": "35",
+                "height": "35"
               },
-              "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/logo.png"
-            },
-            "menu": {
-              "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/box.png"
+              "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/logo.png"
             }
-          },
-          "sections": {
-            "{{#each posts}}": [
-              {
-                "{{#if ('type' in this) && (type=='stories') }}": {
-                  "type": "horizontal",
-                  "items": {
-                    "{{#each items}}": {
-                      "type": "vertical",
-                      "style": {
-                        "background": "#fafafa",
-                        "padding": "9",
-                        "spacing": "13",
-                        "width": "90",
-                        "align": "center",
-                        "distribution": "equalspacing",
-                        "height": "120"
-                      },
-                      "components": [{
-                        "type": "image",
-                        "url": "{{avatar}}",
-                        "style": {
-                          "width": "76",
-                          "height": "76",
-                          "corner_radius": "38"
-                        }
-                      }, {
-                        "type": "label",
-                        "text": "{{name}}",
-                        "style": {
-                          "size": "12"
-                        }
-                      }]
-                    }
-                  }
-                }
-              },
-              {
-                "{{#else}}": {
-                  "header": {
-                    "type": "horizontal",
-                    "style": {
-                      "background": "#ffffff",
-                      "padding": "9",
-                      "spacing": "13"
-                    },
-                    "components": [{
-                      "type": "image",
-                      "url": "{{avatar}}",
-                      "style": {
-                        "width": "38",
-                        "height": "38",
-                        "corner_radius": "19"
-                      }
-                    }, {
-                      "type": "vertical",
-                      "components": [{
-                        "type": "label",
-                        "text": "{{name}}",
-                        "style": {
-                          "font": "HelveticaNeue-Bold",
-                          "size": "12"
-                        }
-                      }, {
-                        "type": "label",
-                        "text": "{{location}} >",
-                        "style": {
-                          "font": "HelveticaNeue",
-                          "size": "11"
-                        }
-                      }]
-                    }, {
-                      "type": "space"
-                    }, {
-                      "type": "image",
-                      "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/dotdotdot.png",
-                      "style": {
-                        "padding_top": "10",
-                        "width": "25"
-                      }
-                    }]
-                  },
-                  "items": [{
-                    "style": {
-                      "width": "100%",
-                      "padding": "0"
-                    },
-                    "type": "image",
-                    "url": "{{content}}"
-                  }]
-                }
-              }
-            ]
           },
           "footer": {
             "tabs": {
               "style": {
                 "background": "rgba(255,255,255,0.8)",
-                "color": "#000000"
+                "color": "#009efa"
               },
               "items": [{
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/home.png",
+                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/home.png",
+                "text": "Home",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/home.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/search.png",
+                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/notifications.png",
+                "text": "Notifications",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/search.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/camera.png",
+                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/moments.png",
+                "text": "Moments",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/camera.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/heart.png",
+                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/messages.png",
+                "text": "Messages",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/heart.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/images/profile.png",
+                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/me.png",
+                "text": "Me",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Instagram-UI-example/master/profile.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }]
             }
-          }
+          },
+          "sections": [{
+            "items": {
+              "{{#each tweets}}": {
+                "type": "horizontal",
+                "style": {
+                  "spacing": "10"
+                },
+                "components": [{
+                  "type": "image",
+                  "url": "https://pbs.twimg.com/profile_images/557061751150112768/eMwi4Xz2_400x400.jpeg",
+                  "style": {
+                    "width": "48",
+                    "height": "48",
+                    "corner_radius": "5"
+                  }
+                }, {
+                  "type": "vertical",
+                  "style": {
+                    "spacing": "5"
+                  },
+                  "components": [{
+                    "type": "horizontal",
+                    "components": [{
+                      "type": "label",
+                      "text": "ethan",
+                      "style": {
+                        "font": "HelveticaNeue-Bold",
+                        "width": "50",
+                        "size": "14"
+                      }
+                    }, {
+                      "type": "label",
+                      "text": "@gliechtenstein · 8h",
+                      "style": {
+                        "color": "#8899a6",
+                        "size": "13",
+                        "font": "HelveticaNeue"
+                      }
+                    }]
+                  }, {
+                    "type": "label",
+                    "text": "{{text}}",
+                    "style": {
+                      "font": "HelveticaNeue",
+                      "size": "14"
+                    }
+                  }, {
+                    "type": "image",
+                    "url": "{{image}}",
+                    "style": {
+                      "corner_radius": "5"
+                    }
+                  }, {
+                    "type": "horizontal",
+                    "style": {
+                      "padding_top": "10"
+                    },
+                    "components": [{
+                      "type": "image",
+                      "style": {
+                        "height": "20"
+                      },
+                      "url": "https://g.twimg.com/dev/documentation/image/reply-action_0.png"
+                    }, {
+                      "type": "space",
+                      "style": {
+                        "width": "60"
+                      }
+                    }, {
+                      "type": "image",
+                      "style": {
+                        "height": "20"
+                      },
+                      "url": "https://g.twimg.com/dev/documentation/image/retweet-action.png"
+                    }, {
+                      "type": "space",
+                      "style": {
+                        "width": "60"
+                      }
+                    }, {
+                      "type": "image",
+                      "style": {
+                        "height": "20"
+                      },
+                      "url": "https://g.twimg.com/dev/documentation/image/like-action.png"
+                    }, {
+                      "type": "space"
+                    }]
+                  }]
+                }]
+              }
+            }
+          }]
         }
       }
     }
