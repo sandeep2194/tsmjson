@@ -52,11 +52,11 @@
               },
               "items": [{
                 "text": "English",
-                "url": "https://raw.githubusercontent.com/sandeep2194/tsmjson/master/home.json?token=ADXCFERAQ5XILXGCSKYEJSS7M3MTA",
+                "url": "https://raw.githubusercontent.com/sandeep2194/tsmjson/master/home.json",
                 "bottom":"30"
               }, {
                 "text": "Hindi",
-                "url": "https://raw.githubusercontent.com/sandeep2194/tsmjson/master/hindi.json?token=ADXCFERAQ5XILXGCSKYEJSS7M3MTA",
+                "url": "https://raw.githubusercontent.com/sandeep2194/tsmjson/master/hindi.json",
                 "bottom":"30"
               }]
             }
