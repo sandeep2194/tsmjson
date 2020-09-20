@@ -52,11 +52,11 @@
               },
               "items": [{
                 "text": "English",
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json",
+                "url": "https://sandeep2194.github.io/tsmjson/home.json",
                 "bottom":"30"
               }, {
                 "text": "Hindi",
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/hindi.json",
+                "url": "https://sandeep2194.github.io/tsmjson/hindi.json",
                 "bottom":"30"
               }]
             }
