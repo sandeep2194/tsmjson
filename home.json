@@ -52,15 +52,9 @@
               },
               "items": [{
                 "text": "English",
-                "style": {
-                  "height": "21"
-                },
                 "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
                 "text": "Hindi",
-                "style": {
-                  "height": "21"
-                },
                 "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/hindi.json"
               }]
             }
