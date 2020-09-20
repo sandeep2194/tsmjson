@@ -18,18 +18,18 @@
         }
       },
       "data": {
-        "tweets": [{
-          "text": "Animated GIFs are neon signs of the Internet.",
-          "image": "https://pbs.twimg.com/media/Cub2D-vXYAIXFQo.jpg"
+        "stories": [{
+          "text": "Dr Reddy's Lab shares hit new highs, extend weekly gains to 20%",
+          "image": "https://images.livemint.com/img/2020/09/18/600x338/AFP_8PR667_1600407847447_1600407860040.jpg"
         }, {
-          "text": "I think this is a new feature on Twitter: a push notification for every tweet",
-          "image": "https://pbs.twimg.com/media/CtJYvx1XgAIilZ4.jpg"
+          "text": "In Cheeky Reply to Actor Milind Soman’s Birthday Wish, PM Modi Takes a Swipe at Oppn",
+          "image": "https://images.news18.com/ibnlive/uploads/2020/09/1600343209_untitled-design-2020-09-17t171633.935.png"
         }, {
-          "text": "Found the most brilliant invention in human history",
-          "image": "https://pbs.twimg.com/media/Cr7cSz1WIAA0OZj.jpg"
+          "text": "Wearing glasses may protect you from Covid-19, says Chinese study",
+          "image": "https://www.thehindubusinessline.com/news/science/h9wh8n/article32637053.ece/ALTERNATES/LANDSCAPE_615/BL19GLASSES"
         }, {
-          "text": "Ludlow and Rivington. NOW.",
-          "image": "https://pbs.twimg.com/media/CrNnHPUWEAEK_b3.jpg"
+          "text": "Why farm sector reform bills are angering farmers: 5 things you need to know - india news - Hindustan Times",
+          "image": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/18/Pictures/farmers-protest-in-patiala_4d725706-f96b-11ea-b206-fe77f4f0660e.jpg"
         }]
       },
       "templates": {
@@ -51,46 +51,23 @@
                 "color": "#009efa"
               },
               "items": [{
-                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/home.png",
-                "text": "Home",
+                "text": "English",
                 "style": {
                   "height": "21"
                 },
                 "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/notifications.png",
-                "text": "Notifications",
+                "text": "Hindi",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
-              }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/moments.png",
-                "text": "Moments",
-                "style": {
-                  "height": "21"
-                },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
-              }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/messages.png",
-                "text": "Messages",
-                "style": {
-                  "height": "21"
-                },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
-              }, {
-                "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/me.png",
-                "text": "Me",
-                "style": {
-                  "height": "21"
-                },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/hindi.json"
               }]
             }
           },
           "sections": [{
             "items": {
-              "{{#each tweets}}": {
+              "{{#each stories}}": {
                 "type": "horizontal",
                 "style": {
                   "spacing": "10"
